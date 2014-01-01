@@ -6,13 +6,7 @@ For more, please see:
 
 + http://strapdownjs.com
 
-## Contributor guide
+# Update 
 
-You will need Node.js (>0.6.x) and CoffeeScript to generate the bundles. To bundle/compile the assets, issue in the project directory:
+Add Cosmo, Flatly, Yeti theme.
 
-```
-$ npm install
-$ coffee bundle <version_number>
-```
-
-Bug fixes should go in the latest version - no need to bump it. New features or anything that changes the old behavior should go into a bumped version.
