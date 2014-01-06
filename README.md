@@ -6,7 +6,4 @@ For more, please see:
 
 + http://strapdownjs.com
 
-# Update 
-
-Add Cosmo, Flatly, Yeti theme.
 
