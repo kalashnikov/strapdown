@@ -112,7 +112,6 @@
     var codeEl = codeEls[i];
     var lang = codeEl.className;
     codeEl.className =  lang;
-    console.log(lang);
   }
  
   // ****** INSERT your customized Prism.js code Below *******  // 

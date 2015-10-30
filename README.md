@@ -10,7 +10,7 @@ For more, please see:
 
 - See `v/0.2.5/strapdown.js` for the example result. 
 - Replace your customized `Prism.js` code
-- Remember to include `Prism.css` when in html file. 
+- Remember to include `Prism.css` in HTML file. 
 
 > I am new learner in Javascript world, still learn how to use `npm`. Maybe update later in more generate way. 
 
