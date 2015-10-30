@@ -6,16 +6,13 @@ For more, please see:
 
 + http://strapdownjs.com
 
-# This fork try to migrate to Bootstrap 3. 
-- Because Bootstrap 3 is not back-compatible to Bootstrap 2, some bootwatch theme is removed. 
+# Replace `Code Prettify` with Prism.js
 
-# Update Marked.js Script 
-- 2014.1.6
+- See `v/0.2.5/strapdown.js` for the example result. 
+- Replace your customized `Prism.js` code
+- Remember to include `Prism.css` when in html file. 
 
-# TODO 
-- Add theme adjustment to make Markdown more beautiful.
-- Survey on icon and image feature. 
-- Debug. 
+> I am new learner in Javascript world, still learn how to use `npm`. Maybe update later in more generate way. 
 
 
 # Credits
